@@ -13,7 +13,7 @@
     outline:none;
 
 	/* background */
-	background: url("img/button.png") no-repeat no-repeat;
+	background: url("../assets/rpg/button.png") no-repeat no-repeat;
 	background-clip: padding-box;
 	background-origin: padding-box;
 	background-position: center;
@@ -37,7 +37,7 @@
 .rpgui-button.hover,
 .rpgui-button:hover {
 
-	background-image: url("img/button-hover.png");
+	background-image: url("../assets/rpg/button-hover.png");
 
 }
 
@@ -45,7 +45,7 @@
 .rpgui-button.down,
 .rpgui-button:active {
 
-	background-image: url("img/button-down.png");
+	background-image: url("../assets/rpg/button-down.png");
 }
 
 /* golden button stuff */
